@@ -1,7 +1,7 @@
 <h1 align="center"><b> Airline Tweet Sentiment Prediction </b></h1>
 <h3 align="center"><b> Airline tweet prediction using LSTMs in Tensorflow </b></h1>
 
-<p align="center"><img width=55% src="Media/Bd_LSTM.png"></p>
+<p align="center"><img width=55% src="Media/Bd_LSTM.jpg"></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
